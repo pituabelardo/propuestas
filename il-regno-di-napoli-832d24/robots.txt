@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://pituabelardo.github.io/propuestas/il-regno-di-napoli-832d24/sitemap.xml

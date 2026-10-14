@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://pituabelardo.github.io/propuestas/la-bufala-1edcff/sitemap.xml

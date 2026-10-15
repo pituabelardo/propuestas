@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://pituabelardo.github.io/propuestas/pizza-burguer-3cc4b0/sitemap.xml

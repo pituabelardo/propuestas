@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://pituabelardo.github.io/propuestas/volare-0a2e04/sitemap.xml

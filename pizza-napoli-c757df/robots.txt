@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://pituabelardo.github.io/propuestas/pizza-napoli-c757df/sitemap.xml
